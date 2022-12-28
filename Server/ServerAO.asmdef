@@ -1,0 +1,21 @@
+{
+    "name": "ServerAO",
+    "rootNamespace": "AO",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "log4net.dll",
+        "Newtonsoft.Json.dll",
+        "MySqlConnector.dll",
+        "SqlKata.dll",
+        "SqlKata.Execution.dll",
+        "Dapper.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
